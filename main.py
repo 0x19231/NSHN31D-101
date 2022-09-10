@@ -1,2 +1,1 @@
-print("hello world")
-print(" this is second commit")
+print("hello to Igor Kozovyj")
